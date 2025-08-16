@@ -25,4 +25,7 @@ the GP43 [Enhanced Tokenomics Simulator](https://dao.gravity.xyz/#/proposal/0xf8
 11. Trusted Execution Environment.
 12. Decentralized Autonomous Organizations.
 
-[assets_task_01k2hsv3feeembgskxzvc2eqf1_task_01k2hsv3feeembgskxzvc2eqf1_genid_b642d5ec-023f-4cca-9161-bc9f434daf0a_25_08_13_13_30_456070_videos_00000_602996597_md](https://github.com/user-attachments/assets/6d2f9455-a600-41d0-88f2-87d5374e40cb)
+
+
+https://github.com/user-attachments/assets/3461c7b9-d4fb-456c-9262-fce0da3d73f6
+
