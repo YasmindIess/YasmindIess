@@ -6,7 +6,7 @@
 Recently rant a dApp proposal on [Galxe DAO](https://dao.gravity.xyz/#/);
 the GP43 [Enhanced Tokenomics Simulator](https://dao.gravity.xyz/#/proposal/0xf84a6424728ddd94ba83635c3f9e34b45f5443c929ef3be9ede95c118b8e353d) - An educative dApp for token economies research and simulation.
 
-It won't met the quorum, so I am GoinG to produce it and ship all within the @Nebulae-Grid-Universe project.
+It won't met the quorum, so I am GoinG to produce it and ship all within the [@Nebulae-Grid-Universe](https://github.com/Nebulae-Grid-Universe/) project.
 
 The NGU/Never Give Up & Nebula Grid Universe is a hub for my projects, and aims to make people pays attention to Gravity Chain by giving them a plethora of Galactic Good products for productivity, influence, and development.
 
